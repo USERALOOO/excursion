@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.topic {
+    color: white;
+    font-family: Verdana;
+}
+
+#one {
+    font-weight: normal;
+    font-size: 50px;
+    margin-bottom: 5px;
+}
+
+.information {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+}
+
+a {
+    color: aquamarine;
+    font-size: 15px;
+    font-family: Verdana;
+}
+
+#two {
+    font-size: 42px;
+}
+
+.placeInfo {
+    color: gray;
+    font-family: Verdana;
+    font-size: 21px;
+    margin-bottom: 15px;
+}

@@ -41,3 +41,10 @@ a {
     font-size: 21px;
     margin-bottom: 15px;
 }
+
+.footer {
+    color: gray;
+    text-align: right;
+    width: 100%;
+    font-family: Verdana;
+}
